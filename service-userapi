@@ -1,0 +1,3 @@
+spring.profiles=dev
+com.config.userapi.name=123
+com.config.userapi.password=123456
